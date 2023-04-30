@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **JS Projects**
 
-- 🌱 I’m currently learning **HTML CSS**
+- 🌱 I’m currently learning **Reach js and Node js**
 
 - 👨‍💻 All of my projects are available at [https://jithukrishna.live/](https://jithukrishna.live/)
 
