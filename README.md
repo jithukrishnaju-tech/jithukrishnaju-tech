@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Reach js and Node js**
 
-- 👨‍💻 All of my projects are available at [https://jithukrishna.live/](https://jithukrishna.live/)
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **jithukrishnaju@gmail.com**
