@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Jithu Krishna JU</h1>
-<h3 align="center">A passionate front end developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithukrishnaju-tech&label=Profile%20views&color=0e75b6&style=flat" alt="jithukrishnaju-tech" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jithustwt" target="blank"><img src="https://img.shields.io/twitter/follow/jithustwt?logo=twitter&style=for-the-badge" alt="jithustwt" /></a> </p>
 
-- 🔭 I’m currently working on **JS Projects**
+- 🔭 I’m currently working on **Java Projects**
 
-- 🌱 I’m currently learning **Reach js and Node js**
+- 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript Java**
 
 - 📫 How to reach me **jithukrishnaju@gmail.com**
 
