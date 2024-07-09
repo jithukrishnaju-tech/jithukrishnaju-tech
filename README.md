@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **JavaScript Java**
+- 💬 Ask me about **JavaScript, Java**
 
 - 📫 How to reach me **jithukrishnaju@gmail.com**
 
